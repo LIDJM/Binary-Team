@@ -1,4 +1,4 @@
-package com.example.appsitiosturisticos
+package com.example.poi
 
 import org.junit.Test
 
